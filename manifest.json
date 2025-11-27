@@ -1,10 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "HDZX"
-}
-{
-    "ServerKind": 0,
-    "OrganizationName": "Hello",
+    "OrganizationName": "HDZX",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Mryanhuo/classisland-mgmt-cfg/master/classplans.json",
         "Version": 1
